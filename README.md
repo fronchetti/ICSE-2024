@@ -7,7 +7,7 @@ The organization and authors of this repository are not liable for any consequen
 ## 📘 About the repository
 This repository is a replication package for our research submitted to ICSE 2024. Most files are self-explanatory (qualitative_analysis.xlsx contains data from the qualitative analysis, etc). Inside the /prototype folder you will also find the implementation of our language.
 
-- We present below the description of Duplo and how we implemented it:
+-- We present below the description of Duplo and how we implemented it: --
 
 ## 📘 About the language
 Duplo is a block-based programming language created to introduce non-experts to two-armed robots programming. The language is composed by two side by side canvases, used to accommodate instruction blocks from both robotic arms. A toolbox on the left side of the two canvases displays the instruction blocks available for use, and an execution button at the bottom runs the instructions from both canvases at the same time. In Duplo, the left canvas represents the instructions of the left arm in a two-armed robot, while the right canvas the instructions of the right arm. At the top of the page, a toolbar gives access to features that do not generate code, including buttons to run workspace commands (e.g., save the current workspace) and manual robot commands (e.g., move arms to home position). 
