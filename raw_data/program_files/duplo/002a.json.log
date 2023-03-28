@@ -1,0 +1,77 @@
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 9/10/2021, 10:42:56 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 9/10/2021, 10:42:56 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 9/10/2021, 10:42:56 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 9/10/2021, 10:42:56 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 9/10/2021, 10:42:56 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 9/10/2021, 10:42:56 AM
+<Prototype Log> Event: CLICK_OPEN_WORKSPACE_BUTTON, Date: 9/10/2021, 10:42:59 AM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both11, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both2, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L1, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both 2, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both3, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: End?, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: B3, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: B2, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L44, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both4, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Left 1, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both1, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L2, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both 22, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Left 33, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Left 44, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L55, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L6, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Left 7, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L8, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Both, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: B22, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R6, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R 1, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Rrr2, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R3, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: RR 4, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Right5, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/10/2021, 10:43:04 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_close, Workspace: Left, Date: 9/10/2021, 10:43:07 AM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Left, Date: 9/10/2021, 10:43:08 AM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Left, Date: 9/10/2021, 10:43:08 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_close, Workspace: Right, Date: 9/10/2021, 10:43:08 AM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/10/2021, 10:43:09 AM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/10/2021, 10:43:09 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_open, Workspace: Left, Date: 9/10/2021, 10:43:10 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/10/2021, 10:43:11 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_open, Workspace: Left, Date: 9/10/2021, 10:43:12 AM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Left, Date: 9/10/2021, 10:43:13 AM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Left, Date: 9/10/2021, 10:43:13 AM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_open, Workspace: Right, Date: 9/10/2021, 10:43:13 AM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Right, Date: 9/10/2021, 10:43:13 AM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/10/2021, 10:43:16 AM

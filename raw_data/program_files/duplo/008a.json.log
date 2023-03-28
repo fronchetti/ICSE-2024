@@ -1,0 +1,39 @@
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 10/21/2021, 5:55:35 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 10/21/2021, 5:55:35 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 10/21/2021, 5:55:35 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 10/21/2021, 5:55:35 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 10/21/2021, 5:55:35 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 10/21/2021, 5:55:35 PM
+<Prototype Log> Event: CLICK_OPEN_WORKSPACE_BUTTON, Date: 10/21/2021, 5:55:36 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Up 2, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Target, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Above gear, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Prop target, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Up, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L prop, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R prop, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Above spacer, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Pick spacer, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Up, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Above target, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 10/21/2021, 5:55:40 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 10/21/2021, 5:55:45 PM

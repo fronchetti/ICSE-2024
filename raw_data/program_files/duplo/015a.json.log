@@ -1,0 +1,47 @@
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 11/22/2021, 2:03:05 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 11/22/2021, 2:03:05 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 11/22/2021, 2:03:05 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 11/22/2021, 2:03:05 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 11/22/2021, 2:03:05 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 11/22/2021, 2:03:05 PM
+<Prototype Log> Event: CLICK_OPEN_WORKSPACE_BUTTON, Date: 11/22/2021, 2:03:09 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Tedt, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Side B, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Drop finish, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Up finish, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Upmid, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Downfinish, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: 123, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Grab left, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Finish a, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Tape, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Step A, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Step B, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Grab A, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Place A, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: finish b, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Finish 3, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Tape 2, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 11/22/2021, 2:03:14 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 11/22/2021, 2:03:16 PM

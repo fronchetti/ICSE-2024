@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Duplo</title>
+  <!-- CSS -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+  <!-- Prototype CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- HTML elements -->
+  <div class="container-fluid fill">
+    <!-- Toolbar (Top) -->
+    <div class="row" id="toolbar-top">
+      <div class="col-6" id="workspace-options">
+        <div class="row align-items-center">
+          <div class="col-2 col-sm-4" style="width: 180px;">
+          <!-- Workspace button -->
+          <div class="dropdown">
+            <button id="workspace-button" class="btn dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Workspace
+            </button>
+            <div class="dropdown-menu">
+              <button class="dropdown-item" id="reload-button">New workspace</button>
+              <button class="dropdown-item" value="save-by-name" id="save-button">Save current workspace</button>
+              <button class="dropdown-item" id="open-file-button">Open another workspace</button>
+            </div>
+          </div>
+          </div>
+          <div class="col-10 col-sm-6">
+            <!-- Workspace filename -->
+            <span id="workspace-filename">Example.json</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Robot control buttons -->
+      <div class="col-6" id="robot-options">
+        <div class="row float-end">
+          <div class="col-12">
+          <!-- Move to home button -->
+          <button type="button" class="btn" id="home-button">Move to Home</button>
+          <!-- Open/closed grippers buttons -->
+          <div class="btn-group" role="group" aria-label="Gripper Options">
+            <button type="button" class="btn" id="left-hand-switch-button" value="open-hand">Open Left</button>
+            <button type="button" class="btn" id="left-right-hand-switch-button" value="open-hand">Open Both</button>
+            <button type="button" class="btn" id="right-hand-switch-button" value="open-hand">Open Right</button>
+          </div> 
+        </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Blockly workspace -->
+    <div class="row" id="workspace">
+      <div class="workspace-area col-6">
+        <div id="left-workspace">
+          <span id="workspace-identifier">Left Arm</span>
+          <!-- Blockly will use this div -->
+        </div>
+      </div>
+      <div class="workspace-area col-6">
+        <div id="right-workspace">
+          <span id="workspace-identifier">Right Arm</span>
+          <!-- Blockly will use this div -->
+        </div>
+      </div>
+    </div>
+    
+    <!-- Toolbar (Bottom) -->
+    <div class="row" id="toolbar-bottom">
+      <div class="col text-center">
+        <!-- Start button -->
+        <button id="start-button" value="start-execution" type="button" class="btn">Start</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="position-modal" class="modal" data-value="new-position" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Teach Position</h5>
+          <button id="position-modal-cancel-button" type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <span id="position-modal-warning"></span>
+        </div>
+        <div class="modal-footer justify-content-center">
+          <button id="position-modal-confirm-button" type="button" class="btn modal-confirm-button">Teach</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="variable-prompt-modal" class="modal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Define Location</h5>
+          <button id="variable-prompt-modal-cancel-button" type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <span id="variable-prompt-modal-warning"></span>
+          <input type="text" class="form-control" id="variable-name-input" placeholder="Example: Target, Gear, Spacer..." aria-label="Example: Target, Gear, Spacer..." aria-describedby="button-addon2">
+          <div class="modal-footer justify-content-center">
+            <button id="variable-prompt-modal-confirm-button" class="btn modal-confirm-button" type="button" id="variable-prompt-modal-confirm-button">Confirm</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Blockly -->
+  <!-- Starting configuration -->
+  <xml xmlns="https://developers.google.com/blockly/xml" id="workspaceBlocks" style="display: none">
+    <block type="custom_start" id="START" x="38" y="38"></block>
+  </xml>
+  
+  <!-- Toolbox - Only the close finger block will double mirror -->
+  <xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+    <category name="Move" colour="#DB4437">
+      <block type="custom_move">
+        <mutation type="null"></mutation>
+      </block>
+      <block type="custom_move">
+        <mutation type="and follow on other side"></mutation>
+      </block>
+      <block type="linear_custom_move"></block>
+    </category>
+    <category name="Gripper" colour="#4285F4">
+      <block type="custom_open"></block>
+      <block type="custom_close"></block>
+    </category>
+    <category name="Synchrony" colour="#ffcd40">
+      <block type="custom_wait"></block>
+    </category>
+  </xml>
+  
+  <!-- Bootstrap -->
+  <script src="bootstrap/jquery.min.js"></script>
+  <script src="bootstrap/bootstrap.bundle.min.js"></script>
+  <!-- Blockly -->
+  <script src="blockly/blockly_uncompressed.js"></script>
+  <script src="blockly/blocks_compressed.js"></script>
+  <script src="blockly/msg/js/en.js"></script>
+  <!-- Prototype Blockly -->
+  <script src="js/logs.js"></script>
+  <script src="js/blocks.js"></script>
+  <script src="js/drag_across.js"></script>
+  <script src="js/mirror.js"></script>
+  <script src="js/robtarget.js"></script>
+  <script src="js/controller_state.js"></script>
+  <script src="js/tool_constants.js"></script>
+  <script src="js/scrolling.js"></script>
+  <script src="js/variable_prompt.js"></script>
+  <script src="js/resolve.js"></script>
+  <script src="js/lengthen_container.js"></script>
+  <script src="js/split_stacks.js"></script>
+  <script src="js/index.js"></script>
+  <script src="js/rapid.js"></script>
+  <!-- Prototype RAPID -->
+  <script src="js/rapid/logic.js"></script>
+  <script src="js/rapid/loops.js"></script>
+  <script src="js/rapid/math.js"></script>
+  <script src="js/rapid/procedures.js"></script>
+  <script src="js/rapid/robot_arm.js"></script>
+  <script src="js/rapid/robot_hand.js"></script>
+  <script src="js/rapid/run.js"></script>
+  <script src="js/rapid/sync.js"></script>
+  <script src="js/rapid/variables.js"></script>
+  <!-- Prototype UI -->
+  <script src="js/start_code.js"></script>
+  <script src="js/new_workspace.js"></script>
+  <script src="js/save_workspace.js"></script>
+  <script src="js/open_workspace.js"></script>
+  <script src="js/reset_workspace.js"></script>
+  <script src="js/left_hand_switch.js"></script>
+  <script src="js/right_hand_switch.js"></script>
+  <script src="js/both_hands_switch.js"></script>
+</body>
+</html>

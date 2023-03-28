@@ -1,0 +1,258 @@
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 9/2/2021, 6:19:34 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 9/2/2021, 6:19:34 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 9/2/2021, 6:19:34 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 9/2/2021, 6:19:34 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 9/2/2021, 6:19:34 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 9/2/2021, 6:19:34 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:19:35 PM
+<Prototype Log> Event: CLICK_OPEN_WORKSPACE_BUTTON, Date: 9/2/2021, 6:19:39 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L_almostg, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L_b4down, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L_touch3, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L_helicopter, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R_almostg, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R_b4down, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R_touch, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R_back, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R_helicopter, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:19:44 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:19:51 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_close, Workspace: Left, Date: 9/2/2021, 6:20:12 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_close, Workspace: Left, Date: 9/2/2021, 6:20:13 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:20:18 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:20:30 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:20:52 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_close, Workspace: Right, Date: 9/2/2021, 6:21:04 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_close, Workspace: Right, Date: 9/2/2021, 6:21:05 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:06 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:07 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:07 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:08 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:09 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:10 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:10 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:21:13 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_close, Workspace: Right, Date: 9/2/2021, 6:21:15 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:21:18 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:21:43 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:21:43 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:21:43 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:21:46 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:21:46 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:22:26 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:22:27 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:22:31 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:22:32 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/2/2021, 6:22:37 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/2/2021, 6:22:37 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:22:47 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:22:47 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:22:47 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:22:49 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:22:49 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:22:54 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:22:54 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:22:57 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:22:57 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:26:09 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:26:12 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:26:32 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:26:52 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:26:52 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/2/2021, 6:26:54 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/2/2021, 6:26:54 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:26:54 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:27:00 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:27:38 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:27:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:27:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/2/2021, 6:27:40 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/2/2021, 6:27:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:27:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: linear_custom_move, Workspace: Left, Date: 9/2/2021, 6:27:44 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: linear_custom_move, Workspace: Left, Date: 9/2/2021, 6:27:45 PM
+<Prototype Log> Event: VAR_RENAME, Old Name: <somewhere>, New Name: Both_up, Workspace: Left, Date: 9/2/2021, 6:27:55 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:27:57 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:27:59 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:28:14 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:28:37 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: linear_custom_move, Workspace: Left, Date: 9/2/2021, 6:28:52 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Left, Date: 9/2/2021, 6:28:53 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Left, Date: 9/2/2021, 6:28:53 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: linear_custom_move, Workspace: Right, Date: 9/2/2021, 6:28:53 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: linear_custom_move, Workspace: Right, Date: 9/2/2021, 6:28:53 PM
+<Prototype Log> Event: VAR_DELETE, Variable Name: Both_up, Workspace: Right, Date: 9/2/2021, 6:28:53 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/2/2021, 6:28:54 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/2/2021, 6:28:54 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:28:57 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 9/2/2021, 6:28:57 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:28:57 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:28:57 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:29:00 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:29:00 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:29:23 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:29:23 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/2/2021, 6:29:25 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/2/2021, 6:29:25 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:29:25 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:29:34 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:29:40 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: linear_custom_move, Workspace: Left, Date: 9/2/2021, 6:30:11 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: linear_custom_move, Workspace: Left, Date: 9/2/2021, 6:30:13 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: linear_custom_move, Workspace: Left, Date: 9/2/2021, 6:30:16 PM
+<Prototype Log> Event: VAR_RENAME, Old Name: <somewhere>, New Name: Both_elbow, Workspace: Left, Date: 9/2/2021, 6:30:34 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:30:35 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:30:36 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:30:54 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:31:25 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Left, Date: 9/2/2021, 6:31:34 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Left, Date: 9/2/2021, 6:31:34 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Left, Date: 9/2/2021, 6:31:34 PM
+<Prototype Log> Event: VAR_DELETE, Variable Name: Both_elbow, Workspace: Left, Date: 9/2/2021, 6:31:34 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:31:50 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:32:43 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 9/2/2021, 6:32:43 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:32:43 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:32:43 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:32:45 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:32:45 PM
+<Prototype Log> Event: VAR_RENAME, Old Name: <somewhere>, New Name: Both_b4t, Workspace: Left, Date: 9/2/2021, 6:33:00 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:33:01 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:33:02 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:33:15 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:33:45 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:33:46 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:36:37 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:36:41 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:36:47 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:36:52 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:36:58 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:37:03 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:37:11 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:37:13 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:37:21 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: open-hand, Date: 9/2/2021, 6:37:26 PM
+<Prototype Log> Event: CLICK_RIGHT_HAND_SWITCH_BUTTON, Button Value: close-hand, Date: 9/2/2021, 6:37:59 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:38:06 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:38:20 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:38:50 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:39:00 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:39:30 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:39:30 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/2/2021, 6:39:35 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/2/2021, 6:39:35 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:39:35 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:39:44 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:39:57 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:40:32 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:40:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:40:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:40:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:40:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_close, Workspace: Left, Date: 9/2/2021, 6:40:39 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_close, Workspace: Left, Date: 9/2/2021, 6:40:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:40:40 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:40:40 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:41:09 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:41:11 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:41:25 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:41:26 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:41:26 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_close, Workspace: Left, Date: 9/2/2021, 6:41:27 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 9/2/2021, 6:41:30 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 9/2/2021, 6:41:30 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:41:31 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:42:06 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 9/2/2021, 6:42:06 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:42:07 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:42:07 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:42:08 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:42:08 PM
+<Prototype Log> Event: VAR_RENAME, Old Name: <somewhere>, New Name: Both_b4t2, Workspace: Left, Date: 9/2/2021, 6:42:22 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:42:23 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:42:24 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:42:39 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:43:11 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:43:12 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:43:23 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:43:37 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:44:11 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:44:12 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:44:24 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:44:51 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 9/2/2021, 6:44:51 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:44:51 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:44:51 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:44:54 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:44:54 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:45:14 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:45:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:45:14 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:45:15 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:45:15 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:45:17 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:45:17 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Right, Date: 9/2/2021, 6:45:18 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Right, Date: 9/2/2021, 6:45:18 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:45:18 PM
+<Prototype Log> Event: VAR_RENAME, Old Name: <somewhere>, New Name: B_down, Workspace: Left, Date: 9/2/2021, 6:45:29 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:45:30 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:45:34 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:45:36 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:45:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Workspace: Left, Date: 9/2/2021, 6:45:39 PM
+<Prototype Log> Event: BLOCK_DELETE, Workspace: Left, Date: 9/2/2021, 6:45:39 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_open, Workspace: Right, Date: 9/2/2021, 6:45:39 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Right, Date: 9/2/2021, 6:45:40 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:45:46 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:45:48 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:45:59 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:46:08 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:46:13 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:46:25 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: custom_move, Workspace: Right, Date: 9/2/2021, 6:46:50 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:46:51 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:46:52 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:46:52 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:47:06 PM
+<Prototype Log> Event: BLOCK_CHANGE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:47:10 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:47:19 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:47:47 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:47:47 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Right, Date: 9/2/2021, 6:47:48 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Right, Date: 9/2/2021, 6:47:48 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:48:09 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:48:09 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:48:11 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:48:11 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:48:11 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:48:13 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:48:20 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:48:45 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:48:45 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:48:46 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:48:46 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_follow, Workspace: Right, Date: 9/2/2021, 6:48:49 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 9/2/2021, 6:48:49 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:49:27 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:49:28 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Left, Date: 9/2/2021, 6:49:41 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_open, Workspace: Right, Date: 9/2/2021, 6:49:43 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:49:44 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:49:46 PM
+<Prototype Log> Event: CLICK_START_BUTTON, Date: 9/2/2021, 6:49:48 PM
+<Prototype Log> Event: CLICK_HOME_BUTTON, Date: 9/2/2021, 6:56:12 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 9/2/2021, 6:56:18 PM

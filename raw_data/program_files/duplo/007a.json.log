@@ -1,0 +1,56 @@
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 10/20/2021, 3:18:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 10/20/2021, 3:18:38 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 10/20/2021, 3:18:38 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 10/20/2021, 3:18:38 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 10/20/2021, 3:18:38 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 10/20/2021, 3:18:38 PM
+<Prototype Log> Event: CLICK_OPEN_WORKSPACE_BUTTON, Date: 10/20/2021, 3:18:50 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Near home, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Near rod, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: B up from pro spot, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: B grab propeller, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Yeet, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Attempt 4001, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Above, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Almost there, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Here, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L_gear, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: B above rod, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L gear way above rod, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L above rod, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L far left, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: L propeller, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Left above, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_move, Workspace: Left, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_DELETE, Block: custom_start, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: Home Position, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: New R Washer, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: New R above rod, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R washer right above rod, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R far right, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R propeller, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: R above, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: VAR_CREATE, Variable Name: <somewhere>, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_start, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_start, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_CREATE, Block: custom_wait, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: BLOCK_MOVE, Block: custom_wait, Workspace: Right, Date: 10/20/2021, 3:18:55 PM
+<Prototype Log> Event: CLICK_SAVE_WORKSPACE_BUTTON, Date: 10/20/2021, 3:19:00 PM
