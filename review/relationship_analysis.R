@@ -48,7 +48,7 @@ place_propeller <- performance_analysis[,-1]
 results <- chisq.test(place_propeller)
 print(results)
 
-################
+  ################
 # Demographics #
 ################
 relationship_analysis <- read.csv("relationship_analysis.csv", header=TRUE)
