@@ -1,4 +1,4 @@
-# Block-based Programming for Two-Armed Robots: A Comparative Study
+# Replication Package
 Welcome to the replication package of the paper entitled "Block-based Programming for Two-Armed Robots: A Comparative Study", published at ICSE 2024.
 
 # Repository Structure 
