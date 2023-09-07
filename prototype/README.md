@@ -1,6 +1,6 @@
 # Duplo :mechanical_arm:
 A prototype of a programming language for two-armed robots. 
-> Robots supported by Duplo: ABB IRB 14000 (YuMi).
+>> Robots supported by Duplo: ABB IRB 14000 (YuMi).
 
 ### :warning: Warning 
 The organization and authors of this repository are not liable for any consequential damage or injury that any code or information available in this repository may produce to you or others. The code available in this repository should be used only for reading purposes as different robots and settings may act different during  program execution. Use the code and information available here at your own risk, and always make sure you are following all the safety procedures recommended by your robot manufacturer. Robots can be dangerous if used inappropriately, be careful!
