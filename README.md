@@ -17,5 +17,11 @@ To read our paper, download the [preprint](https://github.com/fronchetti/ICSE-20
 - Inside the [prototype](https://github.com/fronchetti/ICSE-2024/tree/main/prototype) folder, you will find Duplo and instructions on how to build it.
 - Inside the [raw_data](https://github.com/fronchetti/ICSE-2024/tree/main/raw_data) folder, you will find the questionnaire spreadsheet and the programs implemented by the participants (a few programs may be missing due to technical errors).
 - Inside the [resources](https://github.com/fronchetti/ICSE-2024/tree/main/resources) folder, you will find all the documentation used to set up the experiment and to train the proctors and the participants. The questionnaire template is also available in this folder.
-- Inside the [review](https://github.com/fronchetti/ICSE-2024/tree/main/review) folder, you will find information implemented and used during the review process for ICSE. 
+- Inside the [review](https://github.com/fronchetti/ICSE-2024/tree/main/review) folder, you will find information implemented and used during the review process for ICSE.
+- The [icons](https://github.com/fronchetti/ICSE-2024/tree/main/icons) folder contains the copyright licenses for the icons we used in the [method](https://github.com/fronchetti/ICSE-2024/blob/main/images/method.pdf) illustration.
+
+# Contact
+If you have any questions or are interested in contributing to our next studies, please don't hesitate to contact us:
+- Felipe Fronchetti (fronchettl@vcu.edu)
+- David Shepherd (dshepherd@lsu.edu)
 
