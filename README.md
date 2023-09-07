@@ -1,6 +1,8 @@
 # Replication Package
 Welcome to the replication package of our paper entitled "Block-based Programming for Two-Armed Robots: A Comparative Study", published at ICSE 2024.
 
+![Duplo example](https://github.com/fronchetti/ICSE-2024/blob/main/duplo_example.png)
+
 # Repository Structure 
 Our package is divided into files and folders, and it is organized as follows:
 
